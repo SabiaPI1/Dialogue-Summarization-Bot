@@ -1,0 +1,17 @@
+# Бот и окружение
+aiogram==2.23.1
+python-dotenv==1.0.0
+nest_asyncio==1.5.8
+
+# ML и Inference (Модели) 
+torch==1.13.1
+transformers==4.27.2
+
+# Библиотеки для ноутбука (Data Science & Training)
+datasets>=2.10.0
+evaluate==0.4.0
+rouge_score==0.1.2
+loralib==0.1.1
+peft==0.3.0
+pandas
+numpy
