@@ -9,7 +9,7 @@
 
 👉 **Протестировать бота:** [@DialogueSummarizationBot](https://t.me/DialogueSummarizationBot)
 
-![Интерфейс бота](assets/demo_screenshot.png)
+<img src="assets/demo_screenshot.png" alt="Интерфейс бота" width="400">
 
 ## Как устроен Telegram-бот
 
